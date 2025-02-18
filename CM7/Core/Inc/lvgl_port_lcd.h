@@ -24,7 +24,7 @@
  * GLOBAL PROTOTYPES
  **********************/
 
-void LCD_init();
+void lcd_init();
 
 /**********************
  *      MACROS

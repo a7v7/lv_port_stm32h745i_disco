@@ -54,7 +54,7 @@ static lv_disp_draw_buf_t disp_buf;
  * Initialize LCD
  */
 
-void LCD_init()
+void lcd_init()
 {
 	/* There is only one display on STM32 */
 	if (display != NULL)
